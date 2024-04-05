@@ -1,10 +1,10 @@
-package variable;
+package sample;
 
 public class variable {
 
     public static void main(String[] args) {
-        // TODO 自動生成されたメソッド・スタブ
-
+        var str1 = "abc";
+        System.out.println(str1);
     }
 
 }
